@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9dadaffd-2e40-48b7-91b5-1428e243280d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="kafka-demo" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BG4mFSSaIohw3Ncaz5aQ5f6CRr" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/kafka-consumer-opensearch" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\OneDrive\Kafka\present\demo\kafka-demo\kafka-consumer-opensearch" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="demo.hochnt" />
+      <recent name="demo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ConsumerDemoCooperative">
+    <configuration name="ConsumerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.hochnt.ConsumerDemo" />
+      <module name="kafka-demo.kafka-basic.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.hochnt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerDemoCooperative (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.hochnt.ConsumerDemoCooperative" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.hochnt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerDemoCooperative" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.hochnt.ConsumerDemoCooperative" />
+      <module name="kafka-demo.kafka-basic.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.hochnt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerDemoInGroup" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.hochnt.ConsumerDemoInGroup" />
+      <module name="kafka-demo.kafka-basic.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.hochnt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerDemoWithShutDown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.hochnt.ConsumerDemoWithShutDown" />
+      <module name="kafka-demo.kafka-basic.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.hochnt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ConsumerDemo" />
+      <item itemvalue="Application.ConsumerDemoWithShutDown" />
+      <item itemvalue="Application.ConsumerDemoInGroup" />
+      <item itemvalue="Application.ConsumerDemoCooperative" />
+      <item itemvalue="Application.ConsumerDemoCooperative (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConsumerDemoCooperative" />
+        <item itemvalue="Application.ConsumerDemoCooperative (1)" />
+        <item itemvalue="Application.ConsumerDemoInGroup" />
+        <item itemvalue="Application.ConsumerDemoWithShutDown" />
+        <item itemvalue="Application.ConsumerDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9dadaffd-2e40-48b7-91b5-1428e243280d" name="Changes" comment="" />
+      <created>1656519247696</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656519247696</updated>
+      <workItem from="1656519249165" duration="4116000" />
+      <workItem from="1656602824994" duration="4556000" />
+      <workItem from="1656898953933" duration="570000" />
+      <workItem from="1656950384755" duration="3601000" />
+      <workItem from="1657551093379" duration="3237000" />
+      <workItem from="1657640514444" duration="4466000" />
+      <workItem from="1657676782851" duration="27000" />
+      <workItem from="1658767637130" duration="1581000" />
+      <workItem from="1658847404735" duration="58000" />
+      <workItem from="1658851860362" duration="2834000" />
+      <workItem from="1658939738070" duration="674000" />
+      <workItem from="1659025271373" duration="2813000" />
+      <workItem from="1659362899169" duration="1204000" />
+      <workItem from="1659364124050" duration="440000" />
+      <workItem from="1659364652270" duration="8478000" />
+      <workItem from="1659406185661" duration="11945000" />
+      <workItem from="1659458726037" duration="871000" />
+      <workItem from="1659512029174" duration="969000" />
+      <workItem from="1659540398676" duration="3570000" />
+      <workItem from="1660755265639" duration="1946000" />
+      <workItem from="1661132452143" duration="12000" />
+      <workItem from="1661187269688" duration="1733000" />
+      <workItem from="1661218897442" duration="3132000" />
+      <workItem from="1661787977343" duration="593000" />
+      <workItem from="1661827407334" duration="1587000" />
+      <workItem from="1664293488568" duration="34000" />
+      <workItem from="1665675206846" duration="5709000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/kafka-basic/src/main/java/demo/hochnt/ProducerDemo.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/kafka-basic/src/main/java/demo/hochnt/ProducerDemo.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/kafka-producer-wikimedia/src/main/java/demo/WikimediaChangeHandler.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/kafka-producer-wikimedia/src/main/java/demo/WikimediaChangeHandler.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/kafka-producer-wikimedia/src/main/java/demo/WikimediaChangeHandler.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/kafka-producer-wikimedia/src/main/java/demo/StringEventHandler.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/kafka-producer-wikimedia/src/main/java/demo/StringEventHandler.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/kafka-producer-wikimedia/src/main/java/demo/StringEventHandler.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
